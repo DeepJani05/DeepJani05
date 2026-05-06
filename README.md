@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Deep Jani 👋
 
-<!--
-**DeepJani05/DeepJani05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst & BI Engineer based in Canada 🍁  
+M.Sc. Big Data Analytics · Trent University (2025)
 
-Here are some ideas to get you started:
+## 🔧 What I Do
+- Build end-to-end data pipelines (Python · SQL · Azure)
+- Create decision-driven dashboards (Power BI)
+- Develop AI-powered data tools (LangChain · CrewAI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Skillvera** — AI-powered skill verification platform  
+  → Focused on helping candidates prove real skills through assessments & portfolios  
+- **Job Intelligence Agent** — Multi-agent job search automation  
+  → Automates job discovery, matching, and tracking using AI agents
+
+## 📊 Tech Stack
+`Python` · `SQL` · `Power BI` · `Azure` · `Supabase` · `LangChain` · `CrewAI`
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/deep-jani-86b850177/
+- Kaggle: https://www.kaggle.com/deepjani
+- Portfolio: Coming soon
